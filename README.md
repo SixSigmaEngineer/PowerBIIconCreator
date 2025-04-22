@@ -6,8 +6,6 @@
 ![overflowing](https://img.shields.io/badge/-overflowing-orange)
 ![bugs](https://img.shields.io/badge/-bugs-lightgrey)
 ![immune](https://img.shields.io/badge/-immune-brightgreen)
-![sleep](https://img.shields.io/badge/-sleep-deprived-blue)
-![keyboard](https://img.shields.io/badge/-keyboard-worn_out-yellow)
 ![code quality](https://img.shields.io/badge/code%20quality-undefined-yellowgreen)
 ![over-engineering](https://img.shields.io/badge/over--engineering-100%25-blue)
 ![project's fuel](https://img.shields.io/badge/project's-fuel-purple)
